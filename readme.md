@@ -4,7 +4,9 @@ The implementation can be found here: https://github.com/Croydon/tuda-vr-parkour
 
 This repository contains several data of the performed pre-study and study:
 
-  * Pre- and Post-Questionnaire answers
+  * Pre- and Post-Questionnaire questions and answers
+    * I have only added the full questions, including explanations, in the `study/` directory, but those are identical for both the pre-study and the final study
+    * All questions and explanations are translated to both English and German
   * Automatic logs
   * TODO: Checklist for the study instructor to ensure that every participant gets the same information and taks in the same order etc.
   * TODO: Digitalized observation notes taken during the study about behaviour and verbal remarks of participants
