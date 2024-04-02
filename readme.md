@@ -9,8 +9,8 @@ This repository contains several data of the performed pre-study and study:
     * All questions and explanations are translated to both English and German
   * Automatic logs
   * Non-exhaustive checklists for the study instructor to ensure that every participant gets the same information and tasks in the same order etc.
-  * TODO: Digitalized observation notes taken during the study about behaviour and verbal remarks of participants
+  * Digitalized observation notes taken during the study about behaviour and verbal remarks of participants
 
 Here are some videos:
   * Study task walkthrough with real + VR view: https://www.youtube.com/watch?v=WJ9H1r-tjjA
-  * Playlist of study participant task recordings: TODO
+  * Playlist of study participant task recordings: https://www.youtube.com/playlist?list=PL2N-uWvcQaWtL2H0RFa1sC37JADNsBbkO
