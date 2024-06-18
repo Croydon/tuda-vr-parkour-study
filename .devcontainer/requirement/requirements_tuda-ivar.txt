@@ -4,6 +4,6 @@ jupyter==1.0.0
 notebook==7.1.2
 numpy==1.26.4
 pandas==2.2.1
-scikit-learn==1.4.1.post1 
+scikit-learn==1.5.0 
 scipy==1.12.0
 spacy==3.7.4
